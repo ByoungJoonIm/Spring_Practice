@@ -7,4 +7,5 @@
 3. [consuming-rest](https://spring.io/guides/gs/consuming-rest/) : consuming-rest
 4. [tutorial-rest](https://spring.io/guides/tutorials/rest/) : [provided_src](https://github.com/spring-guides/tut-rest)
   - tutorial-rest/nonrest
-  - 진행중(What makes something RESTful?)
+  - tutorial-rest/evolution
+  - 진행중(Building links into your REST API)
