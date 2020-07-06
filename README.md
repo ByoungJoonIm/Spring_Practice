@@ -8,4 +8,4 @@
 4. [tutorial-rest](https://spring.io/guides/tutorials/rest/) : [provided_src](https://github.com/spring-guides/tut-rest)
   - tutorial-rest/nonrest
   - tutorial-rest/evolution
-  - 진행중(Building links into your REST API)
+  - tutorial-rest/links
