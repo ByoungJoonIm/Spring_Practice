@@ -9,3 +9,5 @@
   - tutorial-rest/nonrest
   - tutorial-rest/evolution
   - tutorial-rest/links
+5. [tutorial-react&rest]() : [provided_src](https://github.com/spring-guides/tut-react-and-spring-data-rest)
+  - tutorial-react/basic
