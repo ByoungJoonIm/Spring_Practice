@@ -11,3 +11,9 @@
   - tutorial-rest/links
 5. [tutorial-react&rest]() : [provided_src](https://github.com/spring-guides/tut-react-and-spring-data-rest)
   - tutorial-react/basic
+  - tutorial-react/hypermedia
+  - tutorial-react/conditional
+  - tutorial-react/events
+  - tutorial-react/security
+  
+6. [Building Java Projects with Gradle](https://spring.io/guides/gs/gradle/#scratch) : spring-gradle
