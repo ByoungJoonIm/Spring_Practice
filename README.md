@@ -17,3 +17,4 @@
   - tutorial-react/security
   
 6. [Building Java Projects with Gradle](https://spring.io/guides/gs/gradle/#scratch) : spring-gradle
+7. [Testing the Web Layer](https://spring.io/guides/gs/testing-web/) : test/testingweb
